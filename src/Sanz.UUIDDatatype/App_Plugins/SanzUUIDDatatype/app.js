@@ -1,20 +1,13 @@
-﻿
-var app = angular.module("umbraco");
+﻿var app = angular.module("umbraco");
 app.controller('sanzUniqueIdController', function ($scope) {
-
     var uid = generateUUID();
-    console.log(uid);
     $scope.model.value = uid;
-    //console.log(uuid.v4());
-
 });
 
-//https://stackoverflow.com/questions/105034/create-guid-uuid-in-javascript
-
-function generateUUID() { // Public Domain/MIT
+function generateUUID() { 
     var d = new Date().getTime();
     if (typeof performance !== 'undefined' && typeof performance.now === 'function') {
-        d += performance.now(); //use high-precision timer if available
+        d += performance.now(); 
     }
     return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
         var r = (d + Math.random() * 16) % 16 | 0;
