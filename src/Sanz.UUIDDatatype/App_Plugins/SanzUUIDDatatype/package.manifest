@@ -1,8 +1,8 @@
 ﻿{
     "propertyEditors": [
         {
-            "name": "Sanz UUID",
-            "alias": "Sanz.UUID",
+            "name": "Sanz Hidden UUID",
+            "alias": "Sanz.hiddenUUID",
             "editor": {
                 "valueType": "TEXT",
                 "view": "~/App_Plugins/SanzUUIDDatatype/app.html"

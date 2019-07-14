@@ -1,7 +1,7 @@
 ﻿var app = angular.module("umbraco");
-app.controller('sanzUniqueIdController', function ($scope) {
-    var uid = generateUUID();
-    $scope.model.value = uid;
+app.controller('Sanz.ÙUID.Controller', function ($scope) {
+    var uuid = generateUUID();
+    $scope.model.uuid = uuid;
 });
 
 function generateUUID() { 

@@ -48,8 +48,8 @@
     <Content Include="App_Plugins\SanzUUIDDatatype\app.js" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App_Plugins\SanzUUIDDatatype\package.manifest" />
-    <Content Include="App_Plugins\SanzUUIDDatatype\Readme.md" />
+    <Content Include="App_Plugins\SanzUUIDDatatype\package.manifest" />
+    <Content Include="App_Plugins\SanzUUIDDatatype\readme.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
