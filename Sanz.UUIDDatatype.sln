@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanz.UUIDDatatype", "src\Sanz.UUIDDatatype\Sanz.UUIDDatatype.csproj", "{FB175B5B-F115-4235-AB84-F6FAF43DA9CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB175B5B-F115-4235-AB84-F6FAF43DA9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB175B5B-F115-4235-AB84-F6FAF43DA9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB175B5B-F115-4235-AB84-F6FAF43DA9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB175B5B-F115-4235-AB84-F6FAF43DA9CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C35C2DB7-111B-4EC5-87F0-8AE300D9BDFC}
+	EndGlobalSection
+EndGlobal
