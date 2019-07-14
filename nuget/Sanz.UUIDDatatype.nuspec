@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Sanz.UUIDDatatype</id>
+    <version>0.1.0</version>
+    <title>Sanz's Umbraco UUID Data Type</title>
+    <authors>Sanjay Bajracharya</authors>
+    <owners>Sanjay Bajracharya</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl></projectUrl>
+    <description>Umbraco Hidden UUID auto generate field </description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Umbraco UUID package</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7">
+        <dependency id="UmbracoCms.Core" version="7.13.2" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\src\Sanz.UUID\App_Plugins\SanzUUIDatatype\app.js" target="content\App_Plugins\SanzUUIDatatype\app.js" />
+    <file src="..\src\Sanz.UUID\App_Plugins\SanzUUIDatatype\app.html" target="content\App_Plugins\SanzUUIDatatype\app.html" />
+    <file src="..\src\Sanz.UUID\App_Plugins\SanzUUIDatatype\package.manifest" target="content\App_Plugins\SanzUUIDatatype\package.manifest" />
+    <file src="..\src\Sanz.UUID\App_Plugins\SanzUUIDDatatype\Readme.md" target="content\App_Plugins\SanzUUIDDatatype-->\Readme.md"></file>
+  </files>
+</package>

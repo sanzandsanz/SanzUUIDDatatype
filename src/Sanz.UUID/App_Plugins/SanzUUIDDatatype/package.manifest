@@ -1,0 +1,16 @@
+﻿{
+    "propertyEditors": [
+        {
+            "name": "Sanz UUID",
+            "alias": "Sanz.UUID",
+            "editor": {
+                "valueType": "TEXT",
+                "view": "~/App_Plugins/SanzUUIDDatatype/app.html"
+            }
+        }
+    ],
+
+        "javascript": [
+            "~/App_Plugins/SanzUUIDDatatype/app.js"
+        ]
+} 
