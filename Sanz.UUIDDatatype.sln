@@ -15,8 +15,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nuget", "nuget", "{CF5E02BA
 		nuget\Sanz.UUIDDatatype.nuspec = nuget\Sanz.UUIDDatatype.nuspec
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanz.UUID", "src\Sanz.UUID\Sanz.UUID.csproj", "{5961A010-DC8C-414B-8B35-46BE2F17304C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,10 +25,6 @@ Global
 		{FB175B5B-F115-4235-AB84-F6FAF43DA9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB175B5B-F115-4235-AB84-F6FAF43DA9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB175B5B-F115-4235-AB84-F6FAF43DA9CD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5961A010-DC8C-414B-8B35-46BE2F17304C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5961A010-DC8C-414B-8B35-46BE2F17304C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5961A010-DC8C-414B-8B35-46BE2F17304C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5961A010-DC8C-414B-8B35-46BE2F17304C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
