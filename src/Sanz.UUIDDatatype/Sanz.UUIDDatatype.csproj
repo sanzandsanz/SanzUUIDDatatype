@@ -256,6 +256,7 @@
     <Content Include="App_Plugins\ModelsBuilder\modelsbuilder.htm" />
     <Content Include="App_Plugins\ModelsBuilder\modelsbuilder.resource.js" />
     <Content Include="App_Plugins\Sanz.UUID\controllers\Sanz.UUID.Controller.js" />
+    <Content Include="App_Plugins\Sanz.UUID\screenshot.png" />
     <Content Include="App_Plugins\Sanz.UUID\views\Sanz.UUID.html" />
     <Content Include="config\grid.editors.config.js" />
     <Content Include="config\Lang\cs-CZ.user.xml" />

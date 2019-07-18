@@ -10,7 +10,7 @@
         }
     ],
 
-        "javascript": [
-            "~/App_Plugins/Sanz.UUID/controllers/Sanz.UUID.Controller.js"
-        ]
-} S
+    "javascript": [
+      "~/App_Plugins/Sanz.UUID/controllers/Sanz.UUID.Controller.js"
+    ]
+} 
