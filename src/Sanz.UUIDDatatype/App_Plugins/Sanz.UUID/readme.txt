@@ -11,3 +11,7 @@
 .........................................................................................
 
 Thanks for installing this package. 
+
+The package will create a new hidden data type property which will store the UUID. 
+
+Please ! Check the screenshot. 

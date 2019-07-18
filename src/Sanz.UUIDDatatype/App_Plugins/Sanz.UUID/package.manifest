@@ -1,0 +1,16 @@
+﻿{
+    "propertyEditors": [
+        {
+            "name": "Sanz.UUID Generator",
+            "alias": "Sanz.UUID",
+            "editor": {
+                "valueType": "STRING",
+                "view": "~/App_Plugins/Sanz.UUID/views/Sanz.UUID.html"
+            }
+        }
+    ],
+
+        "javascript": [
+            "~/App_Plugins/Sanz.UUID/controllers/Sanz.UUID.Controller.js"
+        ]
+} S

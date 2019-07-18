@@ -12,7 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configurations", "Configura
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nuget", "nuget", "{CF5E02BA-DF74-47A8-A3FB-D0934D7CD735}"
 	ProjectSection(SolutionItems) = preProject
-		nuget\Sanz.UUIDDatatype.nuspec = nuget\Sanz.UUIDDatatype.nuspec
+		nuget\Sanz.UUID.nuspec = nuget\Sanz.UUID.nuspec
 	EndProjectSection
 EndProject
 Global
